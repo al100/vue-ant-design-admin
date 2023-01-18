@@ -1,0 +1,4 @@
+
+
+heroku buildpacks:set heroku/nodejs
+heroku buildpacks:add https://github.com/heroku/heroku-buildpack-static.git
